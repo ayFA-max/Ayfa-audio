@@ -1,5 +1,5 @@
 {
-  "name": "Copy of VoxLibre - AI Audiobook Studio",
+  "name": "Ayfa Audiobook",
   "description": "A futuristic audiobook platform where you can discover, summarize, and generate your own audiobooks using Gemini's cutting-edge Text-to-Speech and creative generation capabilities.",
   "requestFramePermissions": [
     "microphone"
